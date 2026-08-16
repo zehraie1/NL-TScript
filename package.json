@@ -1,0 +1,12 @@
+{
+  "name": "javascriptplaywright",
+  "version": "1.0.0",
+  "description": "Prepration for Playwright, Review JS",
+  "license": "ISC",
+  "author": "Zehra Irkicatal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"npx playwright test\""
+  }
+}
